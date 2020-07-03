@@ -51,6 +51,4 @@ cacheSolve <- function(x, ...) {
         m
 }
 
-### Grading
 
-This assignment will be graded via peer assessment.
