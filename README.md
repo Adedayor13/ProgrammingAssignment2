@@ -52,3 +52,8 @@ cacheSolve <- function(x, ...) {
 }
 
 
+##Testing Example
+c <- matrix(c(4,3,2,5),2,2)
+c1 <- makeCacheMatrix(c) ##code to make Cache matrix of c
+c2 <- cacheSolve(c1) #code to return inverse from Cache
+c2 ##Cache inverse retruned from Cache
