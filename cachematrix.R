@@ -1,6 +1,5 @@
 ## Assignment: Caching the Inverse of a Matrix
 ## makeCacheMatrix: This function creates a special "matrix" object that can cache its inverse.
-
 ## Creating a special matrix object that can cache its inverse, assuming the matrix supplied is always invertible
 
 makeCacheMatrix <- function(x = matrix()) {
